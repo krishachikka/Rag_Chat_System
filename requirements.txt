@@ -92,3 +92,4 @@ urllib3
 watchdog
 yarl
 zstandard
+sentence-transformers
